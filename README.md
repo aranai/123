@@ -1,2 +1,2 @@
 # 123
-anither repository
+another repository
